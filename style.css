@@ -1,0 +1,7 @@
+li [id^="https"]{
+    color: red;
+}
+.a {
+    color: red;
+    size: 24px;
+}
